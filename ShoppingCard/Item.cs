@@ -13,8 +13,8 @@ namespace ShoppingCard
         {
             Fruit = fruit;
             if (fruit == "apple")
-                Price = 0.25;
-            else Price = 0.60;
+                Price = 0.60;
+            else Price = 0.25;
         }
     }
 }
